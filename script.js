@@ -1,16 +1,16 @@
 // Medical Flashcards Data - Hip Conditions
 const flashcardsData = [
     {
-        question: "What is Luxatio coxa congenital?",
-        answer: `<h3>Luxatio coxa congenital (Congenital Hip Dislocation)</h3>
+        question: "What is Luxatio coxae congenita?",
+        answer: `<h3>Luxatio coxae congenita (Congenital Hip Dislocation)</h3>
         <ul>
-            <li>Multifactor inheritance (multiple genes involved)</li>
-            <li>More frequent with girls</li>
+            <li>Multifactorial inheritance (multiple genes involved)</li>
+            <li>More frequent in girls</li>
             <li>External factors may influence (intrauterine space disproportion)</li>
             <li>Relaxin hormone involvement</li>
             <li>Swaddling, wrapping - not good for acetabulum development</li>
         </ul>
-        <p><strong>Note:</strong> Can be secondary in cases of infantil cerebral paresis, myelodysplasia (ICP)</p>`
+        <p><strong>Note:</strong> Can be secondary in cases of infantile cerebral palsy, myelodysplasia (ICP)</p>`
     },
     {
         question: "What are the clinical findings in congenital hip dislocation?",
@@ -34,10 +34,10 @@ const flashcardsData = [
         question: "What are the conservative treatment options for congenital hip dislocation?",
         answer: `<h3>Conservative Treatment</h3>
         <ul>
-            <li><strong>Pavlik strap:</strong> PT show the movement, 20x every diaper change</li>
+            <li><strong>Pavlik harness:</strong> PT show the movement, 20x every diaper change</li>
             <li><strong>Goal:</strong> Loosen fascia</li>
             <li><strong>Ultrasound monitoring</strong></li>
-            <li><strong>Hyase iontophoresis</strong></li>
+            <li><strong>Hyaluronidase iontophoresis</strong></li>
             <li><strong>Active movements</strong> of the hands and fingers</li>
             <li><strong>Stretch fascia</strong></li>
         </ul>`
@@ -46,9 +46,9 @@ const flashcardsData = [
         question: "When is surgical treatment indicated for congenital hip dislocation?",
         answer: `<h3>Surgical Treatment Indications</h3>
         <ul>
-            <li><strong>Open reposition</strong> under age of 1, before gait development</li>
-            <li><strong>4-6 weeks plaster-cast</strong> in order to shrink the capsule</li>
-            <li><strong>After cast off:</strong> active and passive physiotherapy</li>
+            <li><strong>Open reduction</strong> under age of 1, before gait development</li>
+            <li><strong>4-6 weeks plaster cast</strong> in order to shrink the capsule</li>
+            <li><strong>After cast removal:</strong> active and passive physiotherapy</li>
         </ul>`
     },
     {
@@ -56,16 +56,16 @@ const flashcardsData = [
         answer: `<h3>Treatment Goal</h3>
         <p><strong>GOAL: Develop pelvic stability</strong></p>
         <ul>
-            <li><strong>Frontal plane:</strong> Glut. med. adductors</li>
-            <li><strong>Sagittal plane:</strong> Glut. max. hip flexors, abdominals</li>
+            <li><strong>Frontal plane:</strong> Gluteus medius, adductors</li>
+            <li><strong>Sagittal plane:</strong> Gluteus maximus, hip flexors, abdominals</li>
         </ul>`
     },
     {
         question: "What factors influence the inheritance of congenital hip dislocation?",
         answer: `<h3>Inheritance Factors</h3>
         <ul>
-            <li><strong>Multifactor inheritance</strong> - multiple genes involved</li>
-            <li><strong>More frequent with girls</strong></li>
+            <li><strong>Multifactorial inheritance</strong> - multiple genes involved</li>
+            <li><strong>More frequent in girls</strong></li>
             <li><strong>External factors</strong> may influence condition</li>
             <li><strong>Intrauterine space disproportion</strong> can be a contributing factor</li>
             <li><strong>Relaxin hormone</strong> plays a role</li>
@@ -84,10 +84,10 @@ const flashcardsData = [
     {
         question: "What is Dysplasia Coxae?",
         answer: `<h3>Dysplasia Coxae</h3>
-        <p><strong>Definition:</strong> Not well developed bone (mainly acetabulum)</p>
+        <p><strong>Definition:</strong> Poorly developed bone (mainly acetabulum)</p>
         <ul>
-            <li><strong>No dislocation yet</strong> - femoral head is located not centrally in the acetabulum</li>
-            <li><strong>Subluxation easier</strong></li>
+            <li><strong>No dislocation yet</strong> - femoral head is not centrally located in the acetabulum</li>
+            <li><strong>Subluxation more likely</strong></li>
             <li><strong>Socket of joint</strong> is very steep (over 45°) and shallow</li>
         </ul>`
     },
@@ -95,8 +95,8 @@ const flashcardsData = [
         question: "How is Dysplasia Coxae diagnosed?",
         answer: `<h3>Diagnosis of Dysplasia Coxae</h3>
         <ul>
-            <li><strong>Importance of early screening</strong> and prevention by Abd. swaddle</li>
-            <li><strong>Pavlik strap</strong> (keeps in lorenz abd: Abd, flex, ext, rot)</li>
+            <li><strong>Importance of early screening</strong> and prevention by abduction swaddle</li>
+            <li><strong>Pavlik harness</strong> (keeps in Lorenz abduction: abduction, flexion, external rotation)</li>
             <li><strong>Physical examination</strong> by doctor</li>
             <li><strong>Ultrasound</strong></li>
             <li><strong>X-ray at the age of 4 months</strong></li>
@@ -106,46 +106,46 @@ const flashcardsData = [
         question: "What are the surgical treatment options for Dysplasia Coxae?",
         answer: `<h3>Surgical Treatment: Pelvic Osteotomy</h3>
         <p><strong>Types:</strong> Salter, Pemberton, Chiari</p>
-        <p><strong>Goal:</strong> Fix steepness and deepness</p>
+        <p><strong>Goal:</strong> Fix steepness and depth</p>
         
         <h4>Chiari Osteotomy:</h4>
         <ul>
             <li>In early adult age</li>
             <li>No plaster cast anymore</li>
-            <li>Inner fixation by screw or wire</li>
-            <li>Not loadable, not stable for every movement - add int.rot</li>
+            <li>Internal fixation by screw or wire</li>
+            <li>Not weight-bearing, not stable for every movement - avoid internal rotation</li>
         </ul>`
     },
     {
-        question: "What is Tendovaginitis crepitans?",
-        answer: `<h3>Tendovaginitis crepitans</h3>
+        question: "What is Tenosynovitis crepitans?",
+        answer: `<h3>Tenosynovitis crepitans</h3>
         <p><strong>Definition:</strong> Inflammation of tendon sheath (extensors or flexors of the forearm)</p>`
     },
     {
-        question: "What is the conservative treatment for Tendovaginitis crepitans?",
-        answer: `<h3>Conservative Treatment - Tendovaginitis</h3>
+        question: "What is the conservative treatment for Tenosynovitis crepitans?",
+        answer: `<h3>Conservative Treatment - Tenosynovitis</h3>
         
         <h4>Acute phase:</h4>
         <ul>
             <li>Rest, fixation (if needed)</li>
-            <li>Painkiller, anti-inflammatory</li>
+            <li>Pain relievers, anti-inflammatory medications</li>
         </ul>
         
         <h4>Chronic phase:</h4>
         <ul>
-            <li>Painkiller</li>
+            <li>Pain relievers</li>
             <li>Maintain function of wrist and hand</li>
-            <li>Grip power gradually, without overloading</li>
+            <li>Grip strength gradually, without overloading</li>
             <li>Manual skills</li>
             <li>Eccentric exercises</li>
         </ul>`
     },
     {
-        question: "What is the surgical treatment for Tendovaginitis crepitans?",
-        answer: `<h3>Surgical Treatment - Tendovaginitis</h3>
+        question: "What is the surgical treatment for Tenosynovitis crepitans?",
+        answer: `<h3>Surgical Treatment - Tenosynovitis</h3>
         <ul>
-            <li><strong>Procedure:</strong> Cut in the concerned tendon sheath</li>
-            <li><strong>Anesthesia:</strong> Done in local anesthesia</li>
+            <li><strong>Procedure:</strong> Incision in the affected tendon sheath</li>
+            <li><strong>Anesthesia:</strong> Done under local anesthesia</li>
             <li><strong>No fixation needed</strong></li>
             <li><strong>Early mobilization:</strong> Gradual functional movements from 1st day</li>
             <li><strong>Goal:</strong> Recover full function and grip</li>
@@ -155,7 +155,7 @@ const flashcardsData = [
     {
         question: "What is De Quervain Syndrome?",
         answer: `<h3>De Quervain Syndrome</h3>
-        <p><strong>Definition:</strong> Inflammation of m. abductor pollicis longus and extensor pollicis brevis, common tendon sheath (tenosinovitis)</p>
+        <p><strong>Definition:</strong> Inflammation of m. abductor pollicis longus and m. extensor pollicis brevis, affecting common tendon sheath (tenosynovitis)</p>
         
         <h4>Symptoms:</h4>
         <ul>
@@ -165,14 +165,14 @@ const flashcardsData = [
             <li><strong>Finkelstein test positive</strong></li>
         </ul>
         
-        <p><strong>Treatment:</strong> As tendovaginitis</p>`
+        <p><strong>Treatment:</strong> Similar to tenosynovitis</p>`
     },
     {
         question: "What is Shoulder Arthrosis and how common is it?",
         answer: `<h3>Shoulder Arthrosis</h3>
         <p><strong>Frequency:</strong> Rather rare</p>
         <p><strong>Definition:</strong> Degenerative change in the joint - cartilage</p>
-        <p><strong>Types:</strong> Primary/secondary (habitual dislocation, rot cuff)</p>
+        <p><strong>Types:</strong> Primary/secondary (habitual dislocation, rotator cuff tear)</p>
         
         <h4>Symptoms:</h4>
         <ul>
@@ -187,10 +187,10 @@ const flashcardsData = [
         answer: `<h3>Conservative Treatment - Shoulder Arthrosis</h3>
         <ul>
             <li><strong>Avoid overloading</strong> the joint</li>
-            <li><strong>Avoid lasting rest</strong> of joint</li>
+            <li><strong>Avoid prolonged rest</strong> of joint</li>
             <li><strong>Medication</strong></li>
             <li><strong>Underwater PT</strong></li>
-            <li><strong>Treat contracture - OMT, stretch</strong> (ext.rot, abd, flex, int.rot)</li>
+            <li><strong>Treat contracture - OMT, stretch</strong> (external rotation, abduction, flexion, internal rotation)</li>
             <li><strong>Active movements, strengthening</strong></li>
         </ul>`
     },
@@ -199,17 +199,17 @@ const flashcardsData = [
         answer: `<h3>Surgical Treatment - Shoulder Arthrosis</h3>
         <ul>
             <li><strong>Goal:</strong> Decrease pain, increase function</li>
-            <li><strong>Procedure:</strong> Arthro-plastic surgery (hemi or total)</li>
-            <li><strong>Recovery:</strong> Long rehab process</li>
+            <li><strong>Procedure:</strong> Arthroplastic surgery (hemi or total)</li>
+            <li><strong>Recovery:</strong> Long rehabilitation process</li>
         </ul>`
     },
     {
         question: "What are the main congenital conditions of the Elbow and Hand?",
         answer: `<h3>Elbow and Hand Congenital Conditions</h3>
         <ol>
-            <li><strong>Luxatio Capiti Radii Congenita</strong> (luxation of radial head)</li>
+            <li><strong>Luxatio capitis radii congenita</strong> (luxation of radial head)</li>
             <li><strong>Madelung deformity</strong> (varus elbow)</li>
-            <li><strong>Hand: Syndactilia, Polydactilia</strong> (4 or 6 fingers)</li>
+            <li><strong>Hand: Syndactyly, Polydactyly</strong> (4 or 6 fingers)</li>
             <li><strong>Hand varus deformity</strong></li>
         </ol>`
     },
@@ -405,7 +405,7 @@ const flashcardsData = [
         answer: `<h3>Surgical Treatment - Anterior Luxation</h3>
         <p><strong>Putti-Platt operation:</strong> Double anterior capsule + put subscapularis tendon more lateral</p>
         <p><strong>Goal:</strong> Make stronger</p>
-        <p><strong>Result:</strong> This creates an int.rot position</p>`
+        <p><strong>Result:</strong> This creates an internal rotation position</p>`
     },
     {
         question: "What is Scapula elevata (Sprengel deformity)?",
@@ -627,7 +627,7 @@ const flashcardsData = [
         <p><strong>Depends on which part of joint is concerned:</strong></p>
         <ul>
             <li><strong>Unicondylar surface replacement</strong> (medial or lateral arthrosis)</li>
-            <li><strong>Bicondylar surface replacement (TEP</strong> - both femur and tibial surfaces)</li>
+            <li><strong>Bicondylar surface replacement (TEP)</strong> - both femur and tibial surfaces</li>
             <li><strong>4 weeks unloaded!!</strong></li>
         </ul>`
     },
@@ -768,7 +768,7 @@ const flashcardsData = [
         answer: `<h3>Coxarthrosis - Clinical Findings</h3>
         <ul>
             <li><strong>Pain (groin pain - typical hip joint pain)</strong></li>
-            <li><strong>Loss of ROM (sequence of capsular pattern: ext, int.rot, abd, flex)</strong></li>
+            <li><strong>Loss of ROM (sequence of capsular pattern: extension, internal rotation, abduction, flexion)</strong></li>
             <li><strong>Muscle and joint contractures, crepitation, leg length discrepancy</strong></li>
             <li><strong>Limping, gait disturbance</strong></li>
         </ul>`
@@ -817,7 +817,7 @@ const flashcardsData = [
         question: "What is Luxatio habitualis patellae?",
         answer: `<h3>Luxatio habitualis patellae - certain movement</h3>
         <ul>
-            <li><strong>Starts in early childhood, during flexion movement patello dislocates laterally</strong></li>
+            <li><strong>Starts in early childhood, during flexion movement patella dislocates laterally</strong></li>
             <li><strong>In extension goes back to physiological</strong></li>
         </ul>
         
@@ -887,7 +887,7 @@ const flashcardsData = [
         <h4>Postoperative PT:</h4>
         <ul>
             <li><strong>1 week lying in plaster</strong> (breathing, vascular training)</li>
-            <li><strong>3 weeks loadable plaster - gait</strong></li>
+            <li><strong>3 weeks weight-bearing plaster - gait</strong></li>
             <li><strong>Remove plaster after 4 weeks</strong></li>
             <li><strong>CPM, active exercises</strong></li>
             <li><strong>Increase ROM, muscle strenght</strong></li>
@@ -936,7 +936,7 @@ const flashcardsData = [
             <li><strong>Develop walking with 2 crutches, stairs</strong></li>
             <li><strong>After bony healing use 2 sticks</strong></li>
             <li><strong>After 4-6 weeks ALL movements are allowed</strong></li>
-            <li><strong>Home exercise - glut.med. strengthening</strong></li>
+            <li><strong>Home exercise - gluteus medius strengthening</strong></li>
             <li><strong>Ergonomic advice</strong></li>
         </ul>`
     },
@@ -966,11 +966,11 @@ const flashcardsData = [
         <ul>
             <li><strong>Extension treatment</strong></li>
             <li><strong>Contracture treatment: JOINT:</strong> OMT traction, glide <strong>MUSCLE:</strong> stretching</li>
-            <li><strong>Increase ROM:</strong> DIRECTION extension, int.rot, abd, flex</li>
-            <li><strong>Increase muscle strenght:</strong> M.gluteus, M.quadriceps</li>
+            <li><strong>Increase ROM:</strong> DIRECTION extension, internal rotation, abduction, flexion</li>
+            <li><strong>Increase muscle strength:</strong> M.gluteus, M.quadriceps</li>
             <li><strong>Patient in unloaded position:</strong> stage 2 start, stage 3-4 always</li>
             <li><strong>Underwater PT</strong></li>
-            <li><strong>Change in lifestyle:</strong> Diet, wheight, aid: 1 stick</li>
+            <li><strong>Change in lifestyle:</strong> Diet, weight, aid: 1 stick</li>
         </ul>`
     },
     {
@@ -1014,7 +1014,7 @@ const flashcardsData = [
         </ul>
         
         <p><strong>CONTRAINDICATED MOVEMENT: Active hip ADD in first 6 weeks</strong></p>
-        <p><strong>Start full wheight loading after 6 weeks (by 2 sticks)</strong></p>
+        <p><strong>Start full weight bearing after 6 weeks (by 2 sticks)</strong></p>
         <p><strong>Home exercises, ergonomical advices for everyday activity</strong></p>`
     },
     {
@@ -1174,7 +1174,7 @@ const flashcardsData = [
             <li><strong>Pay attention on development of child</strong></li>
             <li><strong>Adequate shoes</strong></li>
             <li><strong>Avoid long walking on hard surface</strong></li>
-            <li><strong>Barefoot walking on uneven surface</strong></li>
+            <li><strong>Barefoot walking on uneven surfaces</strong></li>
             <li><strong>For adults: plantar support in shoes</strong></li>
             <li><strong>Regular PT</strong></li>
         </ul>`
