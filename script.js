@@ -284,6 +284,388 @@ const flashcardsData = [
             <li><strong>Increase grip power</strong></li>
             <li><strong>Every day life functions</strong></li>
         </ul>`
+    },
+    {
+        question: "What is the subacromial space and its significance?",
+        answer: `<h3>Subacromial Space</h3>
+        <p><strong>Anatomy:</strong> 60-120° subacromial space = smallest</p>
+        <p><strong>Significance:</strong> Critical area where impingement occurs during shoulder movement, particularly in the painful arc range.</p>`
+    },
+    {
+        question: "What is the conservative treatment for shoulder impingement (inflammatory phase)?",
+        answer: `<h3>Conservative Treatment - Shoulder Impingement (Inflammatory Phase)</h3>
+        <ul>
+            <li><strong>Anti-inflammatory, pain killers</strong></li>
+            <li><strong>Electrotherapy</strong></li>
+            <li><strong>Centralize humerus head</strong> by strengthening rotator cuff</li>
+            <li><strong>Active movements</strong> to maintain ROM</li>
+            <li><strong>Stretch contracture</strong></li>
+            <li><strong>Underwater PT</strong> (makes it easier, then use water resistance)</li>
+            <li><strong>Postural correction</strong></li>
+            <li><strong>Traction in neutral - interior traction</strong></li>
+        </ul>`
+    },
+    {
+        question: "What is the surgical treatment approach for rotator cuff tears?",
+        answer: `<h3>Surgical Treatment - Rotator Cuff</h3>
+        <p><strong>Indication:</strong> If rotator cuff is torn</p>
+        <p><strong>Post-op approach:</strong> Early functional treatment without fixation</p>
+        <p><strong>Contraindicated:</strong> Overload the stitches - isometric and not overstretch</p>`
+    },
+    {
+        question: "What is the detailed post-operative treatment protocol for shoulder surgery (Day 1)?",
+        answer: `<h3>Post-Op Treatment - Day 1</h3>
+        <ul>
+            <li><strong>Early mobilization with bandage on</strong></li>
+            <li><strong>Breathing, vascular training</strong></li>
+            <li><strong>Walking on first day</strong></li>
+            <li><strong>Move free joints, maintain functions</strong></li>
+            <li><strong>Help circulation of upper extremity</strong></li>
+            <li><strong>Dismiss with Desault bandage (for about 4 weeks)</strong></li>
+            <li><strong>Soft tissue healing takes 6 weeks</strong></li>
+        </ul>
+        <p><strong>Contraindicated:</strong> Extension, Abduction, External rotation</p>`
+    },
+    {
+        question: "What is the post-operative treatment protocol for shoulder surgery (4-6 weeks)?",
+        answer: `<h3>Post-Op Treatment - After 4-6 weeks</h3>
+        <ul>
+            <li><strong>Gradual CPM + guided active, active shoulder + shoulder complex movements</strong></li>
+            <li><strong>Active:</strong> flexion, abd and back to neutral</li>
+            <li><strong>Elbow and hand movements</strong></li>
+            <li><strong>Increase grip strength</strong></li>
+            <li><strong>Self hygiene function with limited use</strong></li>
+        </ul>`
+    },
+    {
+        question: "What is the post-operative treatment protocol for shoulder surgery (After 6 weeks)?",
+        answer: `<h3>Post-Op Treatment - After 6 weeks</h3>
+        <ul>
+            <li><strong>Treat shoulder complex</strong></li>
+            <li><strong>Active/passive:</strong> movements of glenohumeral joint to all directions</li>
+            <li><strong>Strengthening</strong></li>
+            <li><strong>Stretching</strong></li>
+            <li><strong>Proprioception</strong></li>
+            <li><strong>Postural correction</strong></li>
+            <li><strong>Self management in everyday life</strong></li>
+        </ul>`
+    },
+    {
+        question: "What are the contraindicated movements for posterior shoulder dislocation surgery?",
+        answer: `<h3>Surgical Treatment - Posterior Luxation</h3>
+        <p><strong>Concept:</strong> Similar to anterior, post-op similar</p>
+        <p><strong>Except contraindicated movements for 4-6 weeks:</strong></p>
+        <ul>
+            <li><strong>Int rot</strong></li>
+            <li><strong>Horizontal add</strong></li>
+            <li><strong>Extension with add</strong></li>
+        </ul>
+        
+        <h4>Contraindicated for 4-6 weeks (anterior dislocation):</h4>
+        <ul>
+            <li><strong>Ext rot, extension over neutral, big horizontal abd</strong> (would slide anterior)</li>
+            <li><strong>Int rot against resistance</strong> (tendon has to heal)</li>
+        </ul>`
+    },
+    {
+        question: "What are the additional considerations for shoulder rehabilitation?",
+        answer: `<h3>Additional Shoulder Rehabilitation</h3>
+        <ul>
+            <li><strong>PNF:</strong> Shoulder complex patterns</li>
+            <li><strong>Mobilise thoraces:</strong> to increase breathing function</li>
+            <li><strong>Postural correction</strong></li>
+        </ul>`
+    },
+    {
+        question: "What is the surgical approach for bony bridge development in shoulder conditions?",
+        answer: `<h3>Surgical Treatment - Bony Bridge Development</h3>
+        <p><strong>If bony bridge developed:</strong> Remove it to free scapula movements</p>
+        <ul>
+            <li><strong>Desault bandage:</strong> 2-3 weeks int rot, 40° elbow flexion</li>
+            <li><strong>Wrist, hand must be moved</strong></li>
+            <li><strong>After bandage off:</strong> Passive, guided active, active movements of shoulder complex</li>
+            <li><strong>Strengthen muscles around scapula</strong></li>
+            <li><strong>Recover muscle balance</strong></li>
+            <li><strong>Correction of shoulder position and make awareness of it</strong></li>
+            <li><strong>Trunk muscle strengthening</strong></li>
+            <li><strong>Postural correction</strong></li>
+        </ul>`
+    },
+    {
+        question: "What is Luxatio Habitualis Humeri?",
+        answer: `<h3>Luxatio Habitualis Humeri</h3>
+        <p><strong>Definition:</strong> Humerus head dislocates on certain movements (most often abd, ext rot, ext)</p>
+        <ul>
+            <li><strong>Anterior luxation (anterior + inferior)</strong> - most common</li>
+            <li><strong>Posterior luxation (posterior + inferior)</strong></li>
+        </ul>`
+    },
+    {
+        question: "What is the surgical treatment for anterior luxation (Luxatio Habitualis Humeri)?",
+        answer: `<h3>Surgical Treatment - Anterior Luxation</h3>
+        <p><strong>Putti-Platt operation:</strong> Double anterior capsule + put subscapularis tendon more lateral</p>
+        <p><strong>Goal:</strong> Make stronger</p>
+        <p><strong>Result:</strong> This creates an int.rot position</p>`
+    },
+    {
+        question: "What is Scapula elevata (Sprengel deformity)?",
+        answer: `<h3>Scapula elevata (Sprengel deformity)</h3>
+        <p><strong>Type:</strong> Congenital</p>
+        <ul>
+            <li><strong>Developmental disorder</strong></li>
+            <li><strong>Scapula lies higher</strong></li>
+            <li><strong>In serious cases:</strong> bony bridge between medial margin and cervical vertebrae</li>
+        </ul>`
+    },
+    {
+        question: "What are the clinical findings in Scapula elevata?",
+        answer: `<h3>Scapula elevata - Clinical Findings</h3>
+        
+        <h4>Inspection:</h4>
+        <ul>
+            <li><strong>Postural differences:</strong> Trunk-arm triangle, shoulder height</li>
+            <li><strong>Shoulder peak anterior position</strong></li>
+            <li><strong>Shoulder in protract, elevation</strong></li>
+        </ul>
+        
+        <h4>Movement examination:</h4>
+        <ul>
+            <li><strong>Restricted movements in glenohumeral joint</strong></li>
+        </ul>`
+    },
+    {
+        question: "What is the conservative treatment for Scapula elevata (no bony bridge)?",
+        answer: `<h3>Conservative Treatment - Scapula elevata (If no bony bridge)</h3>
+        <ul>
+            <li><strong>Active/passive:</strong> depression, retraction of shoulder complex</li>
+            <li><strong>Relax and stretch elevating muscles:</strong> trapezius superior, levator (pecs, upper abd)</li>
+            <li><strong>Strengthen depressor:</strong> Trapezius inferior, deep abdominals</li>
+        </ul>`
+    },
+    {
+        question: "What are the physical therapy goals for Scapula elevata?",
+        answer: `<h3>Physical Therapy Goals - Scapula elevata</h3>
+        <ul>
+            <li><strong>Goal:</strong> Recover from muscle disbalance</li>
+            <li><strong>Strengthen:</strong> Plantar flexors, tibialis posterior, peroneus longus</li>
+            <li><strong>Correct structure of LE</strong></li>
+            <li><strong>Teach correction of pelvis/lumbar spine</strong></li>
+            <li><strong>Postural correction in:</strong> standing, walking</li>
+        </ul>`
+    },
+    {
+        question: "What is Hallux Valgus?",
+        answer: `<h3>Hallux Valgus</h3>
+        <ul>
+            <li><strong>Hallux deformity of static origin</strong></li>
+            <li><strong>Transverse arch flattens</strong></li>
+            <li><strong>1 MTP becomes more prominent and valgus positioned</strong></li>
+            <li><strong>Hallux pronation</strong></li>
+            <li><strong>Inflammation and exostosis at head of 1 MT</strong></li>
+            <li><strong>Difficulty in shoe wearing (extra calcification)</strong></li>
+        </ul>`
+    },
+    {
+        question: "What is the treatment approach for Hallux Valgus?",
+        answer: `<h3>Hallux Valgus Treatment</h3>
+        
+        <h4>Simple case:</h4>
+        <p><strong>Adequate support and shoes</strong> (support on transverse arch)</p>
+        
+        <h4>Surgical treatment:</h4>
+        <p><strong>Schede, Keller-Brandes operation</strong></p>
+        
+        <h4>Post-op (2-3 days):</h4>
+        <ul>
+            <li><strong>Bed rest, breathing, vascular training</strong></li>
+            <li><strong>Standing and walking in open slippers</strong> w/out loading forefoot</li>
+            <li><strong>Passive movements of hallux</strong> (flex-ext) regularly</li>
+            <li><strong>Later whole foot movements, support</strong></li>
+        </ul>`
+    },
+    {
+        question: "What is Digitus Malleus (Hammer toe)?",
+        answer: `<h3>Digitus Malleus (Hammer toe)</h3>
+        <ul>
+            <li><strong>Deformity of static origin</strong></li>
+            <li><strong>2-5 toes</strong></li>
+            <li><strong>PIP in flexion, MTP and DIP in extension</strong></li>
+            <li><strong>Symptoms:</strong> Pressure over PIP (by shoes)</li>
+            <li><strong>Difficulty in shoe wearing</strong></li>
+        </ul>`
+    },
+    {
+        question: "What is the treatment protocol for Digitus Malleus?",
+        answer: `<h3>Digitus Malleus Treatment</h3>
+        
+        <h4>Initially:</h4>
+        <p><strong>Support transverse arch</strong> (MBT: Rolling surface shoe)</p>
+        
+        <h4>Surgical treatment Post-op:</h4>
+        <ul>
+            <li><strong>1-2 days bed rest</strong></li>
+            <li><strong>Breathing, vascular training</strong></li>
+            <li><strong>Open slippers without loading forefoot</strong></li>
+            <li><strong>Later whole foot movements</strong></li>
+            <li><strong>Support transverse arch</strong></li>
+        </ul>`
+    },
+    {
+        question: "What is Dupuytren Contracture?",
+        answer: `<h3>Dupuytren Contracture</h3>
+        <ul>
+            <li><strong>Contracture of palmaris aponeurosis</strong></li>
+            <li><strong>Most common in middle aged men</strong></li>
+            <li><strong>Progressively worsening</strong> (conservative treatment?)</li>
+            <li><strong>Causes severe functional limitations</strong></li>
+        </ul>
+        <p><strong>Treatment:</strong> As before</p>`
+    },
+    {
+        question: "What is Rotator Cuff Impingement Syndrome?",
+        answer: `<h3>Rotator Cuff Impingement Syndrome</h3>
+        <p><strong>Most common:</strong> m. supraspinatus Impingement Syndrome</p>
+        
+        <h4>Symptoms:</h4>
+        <ul>
+            <li><strong>Pain (on movements, at night)</strong> - Local</li>
+            <li><strong>Pain on pressure</strong></li>
+            <li><strong>Abd, flex is painful</strong></li>
+            <li><strong>Abd, flex, ROM limited</strong></li>
+            <li><strong>Painful arc</strong></li>
+        </ul>`
+    },
+    {
+        question: "What is the detailed post-operative protocol for rotator cuff surgery (0-3 weeks)?",
+        answer: `<h3>Rotator Cuff Surgery - Post-op (0-3 weeks)</h3>
+        <ul>
+            <li><strong>Bandage for a while, then free hanging</strong></li>
+            <li><strong>Elbow movements</strong></li>
+            <li><strong>Passive and active shoulder complex movements (for home!)</strong></li>
+            <li><strong>Pendulum movements</strong></li>
+            <li><strong>Isometric strengthening</strong></li>
+            <li><strong>Use in every day life close to the body</strong></li>
+        </ul>`
+    },
+    {
+        question: "What is the post-operative protocol for rotator cuff surgery (3-6 weeks)?",
+        answer: `<h3>Rotator Cuff Surgery - Post-op (3-6 weeks)</h3>
+        <ul>
+            <li><strong>Passive treatment by CPM</strong> = Continuous passive movement (machine)</li>
+            <li><strong>Active shoulder complex movements</strong></li>
+            <li><strong>Gradual glenohumeral movements</strong></li>
+            <li><strong>Isometric, isotonic strengthening</strong></li>
+            <li><strong>Use of tools</strong></li>
+        </ul>`
+    },
+    {
+        question: "What is the post-operative protocol for rotator cuff surgery (After 6 weeks)?",
+        answer: `<h3>Rotator Cuff Surgery - Post-op (After 6 weeks)</h3>
+        <ul>
+            <li><strong>More active arm movements</strong></li>
+            <li><strong>Rotation movements</strong></li>
+            <li><strong>Individual and complex muscle strengthening</strong></li>
+            <li><strong>Proprioception</strong></li>
+        </ul>`
+    },
+    {
+        question: "What is the long-term goal for rotator cuff surgery recovery?",
+        answer: `<h3>Rotator Cuff Surgery - Long-term Goals</h3>
+        <p><strong>At 3 months:</strong></p>
+        <ul>
+            <li><strong>Should be full ROM, full active movements (to individual needs)</strong></li>
+            <li><strong>Increased physical activity</strong></li>
+        </ul>`
+    },
+    {
+        question: "What is Gonarthrosis?",
+        answer: `<h3>Gonarthrosis</h3>
+        <ul>
+            <li><strong>Joint surface gets destroyed</strong></li>
+            <li><strong>Pain and decrease ROM</strong></li>
+            <li><strong>Often with deformity</strong></li>
+            <li><strong>Primary or secondary</strong></li>
+        </ul>`
+    },
+    {
+        question: "What can cause secondary Gonarthrosis?",
+        answer: `<h3>Secondary Gonarthrosis - Causes</h3>
+        <ul>
+            <li><strong>Hip or foot deformity</strong></li>
+            <li><strong>Over-loading, overweight</strong></li>
+            <li><strong>Post-trauma</strong></li>
+            <li><strong>Inflammatory disease (RA)</strong></li>
+            <li><strong>Bone nutrition problems</strong></li>
+        </ul>`
+    },
+    {
+        question: "What are the clinical findings in Gonarthrosis?",
+        answer: `<h3>Gonarthrosis - Clinical Findings</h3>
+        <ul>
+            <li><strong>Pain (4 stages)</strong></li>
+            <li><strong>Crepitation</strong></li>
+            <li><strong>Decreased ROM in capsular pattern</strong></li>
+            <li><strong>Weakening, quadriceps atrophy</strong></li>
+            <li><strong>Deformity caused by ligament insufficiency</strong></li>
+        </ul>`
+    },
+    {
+        question: "What is the conservative treatment approach for Gonarthrosis?",
+        answer: `<h3>Conservative Treatment - Gonarthrosis (Preventive)</h3>
+        <ul>
+            <li><strong>Extension treatment to prevent flexion contracture</strong></li>
+            <li><strong>Pain relief (electrotherapy)</strong></li>
+            <li><strong>OMT - Traction, Traction + slide</strong></li>
+            <li><strong>Unloaded exercises</strong></li>
+            <li><strong>Underwater PT</strong></li>
+            <li><strong>Ergonomic advices, walking with aids</strong></li>
+        </ul>`
+    },
+    {
+        question: "What are the surgical treatment options for Gonarthrosis?",
+        answer: `<h3>Surgical Treatment - Gonarthrosis</h3>
+        <p><strong>Depends on which part of joint is concerned:</strong></p>
+        <ul>
+            <li><strong>Unicondylar surface replacement</strong> (medial or lateral arthrosis)</li>
+            <li><strong>Bicondylar surface replacement (TEP</strong> - both femur and tibial surfaces)</li>
+            <li><strong>4 weeks unloaded!!</strong></li>
+        </ul>`
+    },
+    {
+        question: "What is the detailed postoperative treatment for Gonarthrosis surgery (1-2 days)?",
+        answer: `<h3>Gonarthrosis Surgery - Postoperative (1-2 days)</h3>
+        <ul>
+            <li><strong>Bedrest, breathing and vascular training, CPM</strong></li>
+        </ul>`
+    },
+    {
+        question: "What is the postoperative treatment for Gonarthrosis surgery (2-5 days)?",
+        answer: `<h3>Gonarthrosis Surgery - Postoperative (2-5 days)</h3>
+        <ul>
+            <li><strong>Drain off, CPM, Walking with 4 leg frame, unloading</strong></li>
+            <li><strong>Guided active movements: Knee, Hip, Ankle (unloaded)</strong></li>
+            <li><strong>Strengthening muscles around the knee, but also hip and ankle</strong></li>
+            <li><strong>Increase possible extension</strong> (support under heel in supine lying)</li>
+            <li><strong>Walking with two crutches</strong></li>
+            <li><strong>Underwater PT</strong></li>
+        </ul>`
+    },
+    {
+        question: "What is the goal for Gonarthrosis surgery recovery?",
+        answer: `<h3>Gonarthrosis Surgery - Recovery Goals</h3>
+        <p><strong>Reach: 0° extension, 90° flexion in 4 weeks</strong></p>`
+    },
+    {
+        question: "What are the ergonomical advices for Gonarthrosis patients?",
+        answer: `<h3>Ergonomical Advices - Gonarthrosis</h3>
+        <ul>
+            <li><strong>Lift on toilet seat (less flexion)</strong></li>
+            <li><strong>Socks, stockings helping hand</strong></li>
+            <li><strong>Seat in bathtub (less flexion)</strong></li>
+            <li><strong>Walking aids</strong></li>
+            <li><strong>Grips</strong></li>
+        </ul>
+        <p><strong>Contraindication:</strong> Kneeling, All 4's</p>`
     }
 ];
 
