@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medical Flashcards - Hip Conditions</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1><i class="fas fa-user-md"></i> Medical Flashcards</h1>
+            <p class="subtitle">Hip Conditions & Treatment</p>
+        </header>
+
+        <div class="flashcard-container">
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill"></div>
+            </div>
+            
+            <div class="card-counter">
+                <span id="currentCard">1</span> / <span id="totalCards">8</span>
+            </div>
+
+            <div class="flashcard" id="flashcard">
+                <div class="flashcard-inner">
+                    <div class="flashcard-front">
+                        <h2 id="cardQuestion">Loading...</h2>
+                        <div class="flip-hint">
+                            <i class="fas fa-sync-alt"></i>
+                            Click to flip
+                        </div>
+                    </div>
+                    <div class="flashcard-back">
+                        <div id="cardAnswer">Loading...</div>
+                        <div class="flip-hint">
+                            <i class="fas fa-sync-alt"></i>
+                            Click to flip back
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="controls">
+                <button class="btn btn-secondary" id="prevBtn">
+                    <i class="fas fa-chevron-left"></i> Previous
+                </button>
+                <button class="btn btn-primary" id="shuffleBtn">
+                    <i class="fas fa-random"></i> Shuffle
+                </button>
+                <button class="btn btn-secondary" id="nextBtn">
+                    Next <i class="fas fa-chevron-right"></i>
+                </button>
+            </div>
+        </div>
+
+        <div class="stats">
+            <div class="stat-item">
+                <span class="stat-value" id="studiedCount">0</span>
+                <span class="stat-label">Cards Studied</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-value" id="accuracy">0%</span>
+                <span class="stat-label">Session Progress</span>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html> 
