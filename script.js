@@ -1259,6 +1259,134 @@ const flashcardsData = [
             <li><strong>Teach correction of pelvis/lumbar spine</strong></li>
             <li><strong>Postural correction in: standing, walking</strong></li>
         </ul>`
+    },
+    {
+        question: "What are the detailed conservative treatment goals for hand conditions?",
+        answer: `<h3>Conservative Treatment Goals - Hand Conditions</h3>
+        <ul>
+            <li><strong>Goal: Loosen fascia</strong></li>
+            <li><strong>UH (Ultrasound)</strong></li>
+            <li><strong>Hyase iontophoresis</strong></li>
+            <li><strong>Active movements of the hands and fingers</strong></li>
+            <li><strong>Stretch fascia</strong></li>
+        </ul>`
+    },
+    {
+        question: "What is the detailed post-operative treatment for wrist/hand surgery (Day 1)?",
+        answer: `<h3>Post-Op Treatment - Wrist/Hand Surgery (Day 1)</h3>
+        <ul>
+            <li><strong>Early mobilization with bandage on</strong></li>
+            <li><strong>Breathing, vascular training</strong></li>
+            <li><strong>Walking on first day</strong></li>
+            <li><strong>Move free joints, maintain functions</strong></li>
+            <li><strong>Help circulation of upper extremity</strong></li>
+            <li><strong>Dismiss with Desault bandage (for about 4 weeks)</strong></li>
+            <li><strong>Soft tissue healing takes 6 weeks</strong></li>
+        </ul>
+        <p><strong>Contraindicated:</strong> Extension, Abduction, External rotation</p>`
+    },
+    {
+        question: "What is the post-operative treatment protocol for wrist/hand surgery (4-6 weeks)?",
+        answer: `<h3>Post-Op Treatment - Wrist/Hand Surgery (4-6 weeks)</h3>
+        <ul>
+            <li><strong>Gradual CPM + guided active, active shoulder + shoulder complex movements</strong></li>
+            <li><strong>Active:</strong> flexion, abd and back to neutral</li>
+            <li><strong>Elbow and hand movements</strong></li>
+            <li><strong>Increase grip strength</strong></li>
+            <li><strong>Self hygiene function with limited use</strong></li>
+        </ul>`
+    },
+    {
+        question: "What is the post-operative treatment protocol for wrist/hand surgery (After 6 weeks)?",
+        answer: `<h3>Post-Op Treatment - Wrist/Hand Surgery (After 6 weeks)</h3>
+        <ul>
+            <li><strong>Treat shoulder complex</strong></li>
+            <li><strong>Active/passive:</strong> movements of glenohumeral joint to all directions</li>
+            <li><strong>Strengthening</strong></li>
+            <li><strong>Stretching</strong></li>
+            <li><strong>Proprioception</strong></li>
+            <li><strong>Postural correction</strong></li>
+            <li><strong>Self management in everyday life</strong></li>
+        </ul>`
+    },
+    {
+        question: "What are the contraindicated movements for posterior shoulder dislocation surgery (detailed)?",
+        answer: `<h3>Contraindicated Movements - Posterior Shoulder Dislocation</h3>
+        <p><strong>For 4-6 weeks:</strong></p>
+        <ul>
+            <li><strong>Int rot</strong></li>
+            <li><strong>Horizontal add</strong></li>
+            <li><strong>Extension with add</strong></li>
+        </ul>
+        
+        <h4>Anterior dislocation contraindications (4-6 weeks):</h4>
+        <ul>
+            <li><strong>Ext rot, extension over neutral, big horizontal abd</strong> (would slide anterior)</li>
+            <li><strong>Int rot against resistance</strong> (tendon has to heal)</li>
+        </ul>`
+    },
+    {
+        question: "What are the detailed characteristics of Dupuytren Contracture?",
+        answer: `<h3>Dupuytren Contracture - Detailed Characteristics</h3>
+        <ul>
+            <li><strong>Contracture of palmaris aponeurosis</strong></li>
+            <li><strong>Most common in middle aged men</strong></li>
+            <li><strong>Progressively worsening</strong> (conservative treatment?)</li>
+            <li><strong>Causes severe functional limitations</strong></li>
+        </ul>
+        <p><strong>Treatment:</strong> As before</p>`
+    },
+    {
+        question: "What are the detailed examination findings in Epicondilitis?",
+        answer: `<h3>Detailed Examination Findings - Epicondilitis</h3>
+        <ul>
+            <li><strong>Overloading in anamnesis</strong></li>
+            <li><strong>Active movements painful</strong></li>
+            <li><strong>Resisted movement painful</strong></li>
+            <li><strong>Pain on pressure</strong></li>
+            <li><strong>Pain on passive stretch</strong></li>
+        </ul>`
+    },
+    {
+        question: "What is the comprehensive post-operative protocol for rotator cuff surgery (0-3 weeks)?",
+        answer: `<h3>Rotator Cuff Surgery - Comprehensive Post-op (0-3 weeks)</h3>
+        <ul>
+            <li><strong>Bandage for a while, then free hanging</strong></li>
+            <li><strong>Elbow movements</strong></li>
+            <li><strong>Passive and active shoulder complex movements (for home!)</strong></li>
+            <li><strong>Pendulum movements</strong></li>
+            <li><strong>Isometric strengthening</strong></li>
+            <li><strong>Use in every day life close to the body</strong></li>
+        </ul>`
+    },
+    {
+        question: "What is the comprehensive post-operative protocol for rotator cuff surgery (3-6 weeks)?",
+        answer: `<h3>Rotator Cuff Surgery - Comprehensive Post-op (3-6 weeks)</h3>
+        <ul>
+            <li><strong>Passive treatment by CPM</strong> = Continuous passive movement (machine)</li>
+            <li><strong>Active shoulder complex movements</strong></li>
+            <li><strong>Gradual glenohumeral movements</strong></li>
+            <li><strong>Isometric, isotonic strengthening</strong></li>
+            <li><strong>Use of tools</strong></li>
+        </ul>`
+    },
+    {
+        question: "What is the comprehensive post-operative protocol for rotator cuff surgery (After 6 weeks)?",
+        answer: `<h3>Rotator Cuff Surgery - Comprehensive Post-op (After 6 weeks)</h3>
+        <ul>
+            <li><strong>More active arm movements</strong></li>
+            <li><strong>Rotation movements</strong></li>
+            <li><strong>Individual and complex muscle strengthening</strong></li>
+            <li><strong>Proprioception</strong></li>
+        </ul>`
+    },
+    {
+        question: "What is the long-term recovery goal for rotator cuff surgery (3 months)?",
+        answer: `<h3>Rotator Cuff Surgery - Long-term Recovery (3 months)</h3>
+        <ul>
+            <li><strong>Should be full ROM, full active movements (to individual needs)</strong></li>
+            <li><strong>Increased physical activity</strong></li>
+        </ul>`
     }
 ];
 
