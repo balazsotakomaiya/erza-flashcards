@@ -1143,6 +1143,122 @@ const flashcardsData = [
             <li><strong>Osteophytes</strong></li>
             <li><strong>Deformity of capitis femoris</strong></li>
         </ul>`
+    },
+    {
+        question: "What are the symptoms of foot arch problems (Pes Planus)?",
+        answer: `<h3>Pes Planus - Symptoms</h3>
+        <ul>
+            <li><strong>Transverse arch decrease, medial arch decrease</strong></li>
+            <li><strong>Calcaneus valgus position (often, not always)</strong></li>
+        </ul>`
+    },
+    {
+        question: "What are the risk periods for developing foot problems?",
+        answer: `<h3>Risk Periods for Foot Problems</h3>
+        <ul>
+            <li><strong>Start of standing, walking</strong></li>
+            <li><strong>Early school years</strong></li>
+            <li><strong>Puberty</strong></li>
+            <li><strong>Pregnancy</strong></li>
+            <li><strong>Overweight</strong></li>
+            <li><strong>Occupational repetitive loading</strong></li>
+            <li><strong>Inactive lifestyle</strong></li>
+            <li><strong>Inadequate shoes</strong></li>
+        </ul>`
+    },
+    {
+        question: "What is the conservative treatment approach for foot problems?",
+        answer: `<h3>Conservative Treatment - Foot Problems</h3>
+        <ul>
+            <li><strong>Goal: Prevention</strong></li>
+            <li><strong>Pay attention on development of child</strong></li>
+            <li><strong>Adequate shoes</strong></li>
+            <li><strong>Avoid long walking on hard surface</strong></li>
+            <li><strong>Barefoot walking on uneven surface</strong></li>
+            <li><strong>For adults: plantar support in shoes</strong></li>
+            <li><strong>Regular PT</strong></li>
+        </ul>`
+    },
+    {
+        question: "What is Patella lateralisation?",
+        answer: `<h3>Patella lateralisation (congenital or trauma)</h3>
+        <p><strong>Causes can be:</strong></p>
+        <ul>
+            <li><strong>Flattened lateral condyle, Patella shape different</strong></li>
+            <li><strong>Muscular disbalance, tuber tibiae grown laterally (from birth)</strong></li>
+        </ul>`
+    },
+    {
+        question: "What is Hyperpressure patella syndrome?",
+        answer: `<h3>Hyperpressure patella syndrome</h3>
+        <p><strong>Definition:</strong> Hyper pressure on lateral side is caused by lateralisation</p>
+        <p><strong>Symptoms:</strong> Pain, later degenerations</p>`
+    },
+    {
+        question: "What is the treatment for Hyperpressure patella syndrome?",
+        answer: `<h3>Treatment - Hyperpressure Patella Syndrome</h3>
+        <ul>
+            <li><strong>Strengthen vastus medialis, manual stretching of vastus lateralis</strong></li>
+            <li><strong>Patella mobilization to medial side, taping technique</strong></li>
+        </ul>`
+    },
+    {
+        question: "What is Chondromalacia Patellae?",
+        answer: `<h3>Chondromalacia Patellae</h3>
+        <p><strong>Definition:</strong> Chondropathia = arthrosis</p>
+        <p><strong>Causes cartilage degeneration in patellofemoral joint</strong></p>
+        
+        <h4>Causes can be:</h4>
+        <ul>
+            <li><strong>Patella shape difference, Trauma, Fracture</strong></li>
+            <li><strong>Repetitive luxation, Lateralisation</strong></li>
+        </ul>
+        
+        <p><strong>X-ray:</strong> typical arthritic signs 30°, 60°, 90°</p>`
+    },
+    {
+        question: "What are the symptoms of Chondromalacia Patellae?",
+        answer: `<h3>Chondromalacia Patellae - Symptoms</h3>
+        <ul>
+            <li><strong>Sitting with bent knee is painful, walking downstairs is painful</strong></li>
+            <li><strong>Standing up from squatting is painful, kneeling is painful/difficult</strong></li>
+            <li><strong>Retro patellar pain, pain on pressure</strong></li>
+        </ul>`
+    },
+    {
+        question: "What is the conservative treatment for Chondromalacia Patellae?",
+        answer: `<h3>Conservative Treatment - Chondromalacia Patellae</h3>
+        <ul>
+            <li><strong>Anti-inflammatory, pain relief</strong></li>
+            <li><strong>Strengthening of vastus medialis</strong></li>
+            <li><strong>Mobilize patella</strong></li>
+            <li><strong>Swimming</strong></li>
+            <li><strong>Tapeing in corrected position</strong></li>
+            <li><strong>Contraindication:</strong> full flexion, squatting, kneeling (last tuber tibiae)</li>
+        </ul>`
+    },
+    {
+        question: "What is the surgical treatment for Chondromalacia Patellae?",
+        answer: `<h3>Surgical Treatment - Chondromalacia Patellae</h3>
+        <p><strong>Lateral retinaculum cut in, Bondi-Maquet operation</strong></p>
+        
+        <h4>Post-operative protocol:</h4>
+        <ul>
+            <li><strong>1 week lying with plaster</strong> (Breathing, vascular training)</li>
+            <li><strong>After 1 week, walking with plaster → Plaster off after 3 weeks</strong></li>
+            <li><strong>CPM, active exercises, patella mobilization, Quadriceps strenght, Gait</strong></li>
+        </ul>`
+    },
+    {
+        question: "What are the physical therapy goals for Scapula elevata recovery?",
+        answer: `<h3>Physical Therapy Goals - Scapula elevata Recovery</h3>
+        <ul>
+            <li><strong>Goal: Recover from muscle disbalance</strong></li>
+            <li><strong>Strengthen: Plantar flexors, tibialis posterior, peroneus longus</strong></li>
+            <li><strong>Correct structure of LE</strong></li>
+            <li><strong>Teach correction of pelvis/lumbar spine</strong></li>
+            <li><strong>Postural correction in: standing, walking</strong></li>
+        </ul>`
     }
 ];
 
